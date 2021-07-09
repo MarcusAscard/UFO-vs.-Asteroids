@@ -1,0 +1,12 @@
+
+ === Log (Sep  3 2020, 15:28:54) === 
+
+Framework initialisation done.
+Using OpenGL 4.1 with context options: profile=core, debug=false, forward compatible=false.
+Loading "./res/scenes/UFO_Empty.obj"
+	* materials
+	* meshes
+Framework shutting down.
+
+ === End of log === 
+
